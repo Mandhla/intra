@@ -215,13 +215,13 @@
                 "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/city-road-lighting-115702-3840x2400-2000x1250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/city_road_lighting_115702_3840x2400-2000x1250.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/yue2y-rXXg4",
                 "title": "WE GUARANTEE EFFECIENCY AS YOU ROAM THE CITIES...",
                 "overlay": true,
                 "contentAlign": "left",
