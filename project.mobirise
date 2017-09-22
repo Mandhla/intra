@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-22_0831",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.2.5",
-    "uniqCompNum": 19,
+    "uniqCompNum": 28,
     "versionPublish": "4.2.5"
   },
   "pages": {
@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#19242d",
@@ -102,13 +102,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#c0a375",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#19242d",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-f\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#contacts1-k\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -672,6 +672,453 @@
           ],
           "_name": "map1",
           "_anchor": "map1-g"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Services",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/121b5f2b883d41ee9a42a072cb7add65-626x430.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VEHICLE MAINTAINANCE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "HELICOILS &amp; THREAD REPAIRS",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4038-1338534453-l-768x576.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ALUMINIUM WELDING OF BLOCKS<br> AND CYLINDER HEADS",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cs4bg-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CYLINDER HEAD SKIMMING",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2693-1338534463-l-768x576.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ENGINE ASSEMBLY",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1199x446.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ENGINE SPARES AND ACCESSORIES",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1200px-ford-i4dohc-camdrive-1200x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TAPPET SETTINGS",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ls-based-dirt-late-model-engine-ctrp-150900-ls-08.jpg-2000x1328.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PRESS FITTING",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/012-cadillac-engine-build-piston-installation.jpg-596x397.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ENGINE BLOCK REBORING &amp; RESLEEVING",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/con-rod-reconditioning-bunbury-gts-engines-01-lg-900x507.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CONROD RECONDITIONING",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/03blockhonels1lg-1034x691.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BLOCK HONING",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/crank-grinding-800x535.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CRANKSHAFT REBUILDING AND GRINDING",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ac-500x334.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "ENGINE SPARES AND ACCESSORIES",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-n",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "What are you waiting for contact us and we will get your car fixed",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "janganomandhla@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-r",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#19242d"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#19242d"
+            },
+            ".link, .dropdown-item": {
+              "color": "#19242d"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b08c52"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#bb9c6a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c0a375"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#19242d",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#c0a375",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#19242d",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#contacts1-k\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": "80",
+              "color": "#b8312f",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 GioTech..",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#535863",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/new7-128x71.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 3 Diedricks Street,<br>Old Leyland Building,<br>Emalahleni.",
+          "text2": "<strong>Contacts</strong><br>\nEmail: janganol@yahoo.com<br>\nPhone: +27 78 263 0309<br>\nFax: +27 (0) 0 0000 002",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts1-k"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Unit 3 Ferreira St, Witbank, Emalahleni, 1035, South Africa",
+              "placeId": "ChIJ0Rpx2SLt6h4Ru0JKLpGD4QI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-q"
         }
       ]
     }

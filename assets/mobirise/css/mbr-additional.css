@@ -447,19 +447,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #a8a8a8;
+  background: #b08c52;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #b9b9b9!important;
+  background: #bb9c6a!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #c1c1c1;
+  background: #c0a375;
 }
 #menu-0 .bg-color.transparent .link {
   color: #19242d;
@@ -506,5 +506,78 @@ h6,
   color: #232323;
 }
 #contacts1-f P {
+  color: #c0a375;
+}
+
+#slider-n H2 {
+  font-size: 48px;
+}
+#form1-r .form-control-label {
+  color: #232323;
+}
+#menu-j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-j .navbar-caption {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#menu-j .navbar-toggler {
+  color: #19242d;
+}
+#menu-j .close-icon::before,
+#menu-j .close-icon::after {
+  background-color: #19242d;
+}
+#menu-j .link,
+#menu-j .dropdown-item {
+  color: #19242d;
+}
+#menu-j .link {
+  font-size: 1rem;
+}
+#menu-j .dropdown-item,
+#menu-j .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-j .link:hover,
+#menu-j .dropdown-item:hover,
+#menu-j .link:focus,
+#menu-j .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-j .link[aria-expanded="true"],
+#menu-j .dropdown-menu {
+  background: #b08c52;
+}
+#menu-j .nav-dropdown-sm .link:focus,
+#menu-j .nav-dropdown-sm .link:hover,
+#menu-j .nav-dropdown-sm .dropdown-item:focus,
+#menu-j .nav-dropdown-sm .dropdown-item:hover {
+  background: #bb9c6a!important;
+}
+#menu-j .navbar,
+#menu-j .nav-dropdown-sm,
+#menu-j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-j .nav-dropdown-sm .dropdown-menu {
+  background: #c0a375;
+}
+#menu-j .bg-color.transparent .link {
+  color: #19242d;
+  transition: none;
+}
+#menu-j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-j .bg-color.transparent.opened .link:hover,
+#menu-j .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-j .link[aria-expanded="true"],
+#menu-j .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#contacts1-k P {
   color: #c0a375;
 }
