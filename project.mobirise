@@ -197,7 +197,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "5",
+            "timeout": "10",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sap-erp-automotive-580x325.jpg",
