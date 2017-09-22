@@ -492,6 +492,12 @@ h6,
   text-align: left;
   font-size: 20px;
 }
+#header6-i .mbr-section-title {
+  color: #28262b;
+}
+#header6-i .mbr-section-text {
+  color: #565656;
+}
 #social-buttons4-6 .mbr-section-title,
 #social-buttons4-6 .btn-social {
   color: #fff;
