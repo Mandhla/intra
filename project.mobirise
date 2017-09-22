@@ -287,7 +287,7 @@
           "testimonial": [
             {
               "authorName": "Abanoub S.",
-              "authorBio": "User",
+              "authorBio": "Toyota Prius",
               "text": "<p>\"What this is nothing but text used to fill in the blanks till further information is given to me. Blah this blah that whatever. I miight as well us the opportunity to practice typing fast.\"</p>",
               "media": {
                 "image": {
@@ -301,7 +301,7 @@
             },
             {
               "authorName": "Suffian A.",
-              "authorBio": "User",
+              "authorBio": "Mercedes-Benz S65",
               "text": "<p>\"What this is nothing but text used to fill in the blanks till further information is given to me. Yes that true good. I miight as well us the opportunity to practice typing fast. I just need to make this a bit longer. Nice just like that.\"</p>",
               "media": {
                 "image": {
@@ -315,7 +315,7 @@
             },
             {
               "authorName": "Jhollman C.",
-              "authorBio": "User",
+              "authorBio": "Pagani Zonda F",
               "text": "<p>\"What this is nothing but text used to fill in the blanks till further information is given to me. I miight as well us the opportunity to practice typing fast. You too just a bit\"</p>",
               "media": {
                 "image": {
