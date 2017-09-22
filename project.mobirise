@@ -626,7 +626,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 3 Diedricks Street,<br>Old Leyland Building,<br>Emalahleni.",
           "text2": "<strong>Contacts</strong><br>\nEmail: janganol@yahoo.com<br>\nPhone: +27 78 263 0309<br>\nFax: +27 (0) 0 0000 002",
-          "text3": "<strong>Links</strong><br>Automotive<a class=\"text-primary\" href=\"https://mobirise.com/\">&nbsp;builder</a><br>\n<a class=\"text-primary\" href=\"index.html\">Download for Windows</a><br>\nDownload for Mac",
+          "text3": "",
           "_tags": [
             "Theme"
           ],
