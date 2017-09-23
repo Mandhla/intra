@@ -703,7 +703,7 @@
                 "title": "VEHICLE MAINTAINANCE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -717,7 +717,7 @@
                 "title": "HELICOILS &amp; THREAD REPAIRS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -728,10 +728,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "ALUMINIUM WELDING OF BLOCKS<br> AND CYLINDER HEADS",
+                "title": "ALUMINIUM WELDING: BLOCKS &amp;&nbsp;CYLINDER HEADS",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -770,7 +770,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "ENGINE SPARES AND ACCESSORIES",
+                "title": "ENGINE SPARES &amp; ACCESSORIES",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality.",
@@ -829,7 +829,7 @@
                 "title": "CONROD RECONDITIONING",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be cr",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -857,7 +857,7 @@
                 "title": "CRANKSHAFT REBUILDING AND GRINDING",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -871,7 +871,7 @@
                 "title": "ENGINE SPARES AND ACCESSORIES",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -885,6 +885,9 @@
           "_styles": {
             "H2": {
               "font-size": "48px"
+            },
+            "P": {
+              "font-size": "18px"
             }
           }
         },

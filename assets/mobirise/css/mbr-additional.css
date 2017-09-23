@@ -515,6 +515,9 @@ h6,
 #slider-n H2 {
   font-size: 48px;
 }
+#slider-n P {
+  font-size: 18px;
+}
 #form1-r .form-control-label {
   color: #232323;
 }
