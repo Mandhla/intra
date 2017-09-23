@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-22_0831",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15,9 +15,9 @@
         "titleFont": "Oswald",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -30,7 +30,7 @@
     },
     "versionFirst": "4.2.5",
     "uniqCompNum": 28,
-    "versionPublish": "4.2.5"
+    "versionPublish": "4.3.0"
   },
   "pages": {
     "index.html": {
@@ -167,7 +167,7 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-size": "48px",
               "color": "#000000"
             },
             ".mbr-section-lead": {
@@ -722,7 +722,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4038-1338534453-l-768x576.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -731,7 +731,7 @@
                 "title": "ALUMINIUM WELDING OF BLOCKS<br> AND CYLINDER HEADS",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -745,7 +745,7 @@
                 "title": "CYLINDER HEAD SKIMMING",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of&nbsp;",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -759,7 +759,7 @@
                 "title": "ENGINE ASSEMBLY",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -773,7 +773,7 @@
                 "title": "ENGINE SPARES AND ACCESSORIES",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -801,7 +801,7 @@
                 "title": "PRESS FITTING",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added..",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -815,7 +815,7 @@
                 "title": "ENGINE BLOCK REBORING &amp; RESLEEVING",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the team has never used this type of tool and will be learning as they go.  Tests.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -829,7 +829,7 @@
                 "title": "CONROD RECONDITIONING",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be created and added to TCT as we get iterations of the product.",
+                "text": "Exploratory testing will play a large part of the testing as the tell be learning as they go.  Tests for planned functionality will be cr",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -862,7 +862,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ac-500x334.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
