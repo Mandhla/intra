@@ -1,0 +1,10 @@
+h10{
+  font-family: Oswald;
+  font-size: 60px;
+}
+
+@media (max-width: 768px) {
+  .gio {
+    font-size: 50px;
+  }
+}
