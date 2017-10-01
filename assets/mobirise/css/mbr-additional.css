@@ -54,6 +54,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Oswald', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -410,9 +416,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -477,7 +480,7 @@ h6,
   color: #c0a375!important;
 }
 #header1-1 .mbr-section-title {
-  font-size: 46px;
+  font-size: 48px;
   color: #000000;
 }
 #header1-1 .mbr-section-lead {
@@ -511,6 +514,9 @@ h6,
 
 #slider-n H2 {
   font-size: 48px;
+}
+#slider-n P {
+  font-size: 18px;
 }
 #form1-r .form-control-label {
   color: #232323;
